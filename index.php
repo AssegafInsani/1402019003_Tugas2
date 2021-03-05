@@ -49,7 +49,7 @@
 						<tr>
 							<td>4.</td>
 							<td>Landing Page SolMusic</td>
-							<td>Front End</td>
+							<td>FrontEnd</td>
 							<td>Sebuah desain landing page aplikasi music dengan kemudahan akses berbagai lagu dengan mudah beserta lirik.</td>
 						</tr>
 					</tbody>
